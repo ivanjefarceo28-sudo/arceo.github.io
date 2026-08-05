@@ -13,7 +13,8 @@ html>
 <br>
 <center>
 <font color="white">
-<img src="jillian_.jfif" width="300" height="300">
+<img src="jillian_.jfif" width="300" height="300">JILLIAN
+   He is my bestfriend since we are kids and he's also my cousin too,and for me he is the best cousin i ever had
 <p><h2>JILLIAN</h2>
 <P>He is my bestfriend since we are kids 
 <br>and he's also my cousin too,and for me he is the best cousin i ever had
